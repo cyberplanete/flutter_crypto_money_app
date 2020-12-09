@@ -1,16 +1,24 @@
-# flutter_crypto_money_app
+# Flutter Crypto money
 
-A new Flutter application.
+C'est une application de crypto-monnaie qui montre le prix des crypto-monnaies telles que BTC, ETH et LTC dans de nombreuses devises mondiales.
 
-## Getting Started
+### Compatible Android ou Ios
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Android DropdownButton:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screenshot1](screenshots/screenshot1.jpg)
+![screenshot2](screenshots/screenshot2.jpg)
+
+
+### IOS CupertinoPicker:
+
+![screenshot3](screenshots/screenshot3.jpg)
+
+### Alert Box:
+![screenshot4](screenshots/screenshot4.jpg)
+
+
+### En cours de développement
