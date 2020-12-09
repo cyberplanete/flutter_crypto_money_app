@@ -1,6 +1,6 @@
 # Flutter Crypto money
 
-C'est une application de crypto-monnaie qui montre le prix des crypto-monnaies telles que BTC, ETH et LTC dans de nombreuses devises mondiales.
+Application le taux d'échange de quelques crypto-monnaie tel que  le BTC, ETH et LTC dans de nombreuses devises mondiales.
 
 ### Compatible Android ou Ios
 
