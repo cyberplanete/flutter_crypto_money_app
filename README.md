@@ -1,6 +1,6 @@
 # Flutter Crypto money
 
-Application le taux d'échange de quelques crypto-monnaie tel que  le BTC, ETH et LTC dans de nombreuses devises mondiales.
+Application calculant le taux d'échange de quelques crypto-monnaie tel que  le BTC, ETH et LTC dans de nombreuses devises mondiales.
 
 ### Compatible Android ou Ios
 
